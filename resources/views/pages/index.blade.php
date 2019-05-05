@@ -4,15 +4,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>Laravel</title>
-
-    <!-- Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
-
-
+    <title>{{config('app.name', 'LSAPP')}}</title>
 </head>
 <body>
-
+    <h1>Welcome to Laravel</h1>
 </body>
 </html>
 
